@@ -1,0 +1,18 @@
+[33m7e761c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnewfeature[m[33m, [m[1;31morigin/newfeature[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull origin main: Fast-forward
+[33m7343a72[m HEAD@{1}: commit: added a var
+[33m5be8969[m HEAD@{2}: checkout: moving from main to newfeature
+[33m90e82e4[m[33m ([m[1;32mmain[m[33m)[m HEAD@{3}: commit (merge): merged
+[33m461cbbf[m[33m ([m[1;32msecondBranch[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33m461cbbf[m[33m ([m[1;32msecondBranch[m[33m)[m HEAD@{5}: checkout: moving from newfeature to main
+[33m5be8969[m HEAD@{6}: commit: made change
+[33m5ce4fa0[m HEAD@{7}: checkout: moving from main to newfeature
+[33m461cbbf[m[33m ([m[1;32msecondBranch[m[33m)[m HEAD@{8}: merge secondBranch: Fast-forward
+[33mac45628[m HEAD@{9}: checkout: moving from secondBranch to main
+[33m461cbbf[m[33m ([m[1;32msecondBranch[m[33m)[m HEAD@{10}: commit: second branch
+[33mac45628[m HEAD@{11}: checkout: moving from main to secondBranch
+[33mac45628[m HEAD@{12}: checkout: moving from newFeature to main
+[33m5ce4fa0[m HEAD@{13}: checkout: moving from main to newFeature
+[33mac45628[m HEAD@{14}: checkout: moving from newFeature to main
+[33m5ce4fa0[m HEAD@{15}: commit: new branch
+[33mac45628[m HEAD@{16}: checkout: moving from main to newFeature
+[33mac45628[m HEAD@{17}: commit (initial): first commit
